@@ -1,0 +1,8 @@
+name: StreakPlugin
+version: 1.0.0
+main: me.worldinc1988.streak.StreakPlugin
+description: Daily streak system for Minecraft servers (like TikTok streaks)
+authors:
+  - worldinc1988
+softdepend:
+  - PlaceholderAPI
